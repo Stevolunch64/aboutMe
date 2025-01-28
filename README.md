@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Lynch</h1>
-<h3 align="center">Student studying Games Design and Development at TUS</h3>
+<h3 align="center">2nd year student studying Games Design and Development at TUS</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg3Zm1oeDB5OGQ4Y2tmcXcweDAzMHd3cm1qcWs3ZzVxYTN5bmdoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevolunch64&label=Profile%20views&color=0e75b6&style=flat" alt="stevolunch64" /> </p>
